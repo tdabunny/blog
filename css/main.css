@@ -26,13 +26,14 @@
 }
 
 .jumbotron {
-    background-image:url('http://goo.gl/04j7Nn');
-    height: 500px;
+    background-image:url('Images/nz.jpg');
+    height: 800px;
+    background-position: bottom;
 }
 
 .jumbotron .container {
     position: relative;
-    top:100px;
+    top:5px;
 }
 
 .jumbotron h1 {
